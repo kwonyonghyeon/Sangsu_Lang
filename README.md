@@ -1,5 +1,5 @@
 # Sangsu_Lang
-평범한 중학생이 엄랭, 어쩔랭을 잇겠다는 당찬 포부로 만든 상수랭(정상수랭)입니다. 에러가 있을 수도 있으니 에러, 혹은 추가하고 싶은 기능 있다면 트위터 DM으로 보내주시면 감사하겠습니다. [@Ropher__][https://twitter.com/Ropher__]
+평범한 중학생이 엄랭, 어쩔랭을 잇겠다는 당찬 포부로 만든 상수랭(정상수랭)입니다. 에러가 있을 수도 있으니 에러, 혹은 추가하고 싶은 기능 있다면 트위터 DM으로 보내주시면 감사하겠습니다. [@Ropher__](https://twitter.com/Ropher__)
 Python으로 만들었고 앞으로 에러 수정과 함께 여러가지 기능들을 추가해 나갈 예정입니다.~~_에러 수정하기도 바쁠 것 같습니다_~~
 초안은 이틀만에 만든거라서(22.03.05~22.03.06) 에러가 여러가지 있을테니 DM으로 에러 제보 많이 부탁드려요 :)
 
@@ -51,7 +51,7 @@ Python으로 만들었고 앞으로 에러 수정과 함께 여러가지 기능�
 출력
 -------------
 * 출력 함수의 기본형은 "CHECK THIS OUT 나는" 입니다.
-* "CHECK THIS OUT 나는 정 상 수 (값)"은 값을 아스키 코드로 변환한 후 출력합니다. [아스키 코드표][https://www.ibm.com/docs/ko/sdse/6.4.0?topic=administering-ascii-characters-from-33-126]
+* "CHECK THIS OUT 나는 정 상 수 (값)"은 값을 아스키 코드로 변환한 후 출력합니다. [아스키 코드표](https://www.ibm.com/docs/ko/sdse/6.4.0?topic=administering-ascii-characters-from-33-126)
 * "CHECK THIS OUT 나는 명사수"는 개행합니다.
 * "CHECK THIS OUT 나는 (값)"은 값을 출력합니다.
 * "CHECK THIS OUT 나는 (정상수xN)"은 (정상수xN)번째 변수를 출력합니다.
