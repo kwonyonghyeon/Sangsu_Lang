@@ -163,4 +163,6 @@ class SangsuLang:
         elif daranya == "냐":
             print(ErrorName + "냐 씨발롬아")
 
-SangsuLang().compileFile('test.jss')
+import sys
+
+SangsuLang().compileFile(sys.argv[1])
