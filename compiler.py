@@ -56,7 +56,7 @@ class SangsuLang:
                     if sangsu_lang[j][0] == "VALUE":
                         k += 1
                         if k == myongsasu:
-                            sangsu_lang[j] = ["VALUE", newList[0]]
+                            sangsu_lang[j] = ["VALUE", self.caculater(codes[i][3:])]
 
             elif codes[i][0] == "테이저건" and codes[i][1] == "쏜" and codes[i][2] == "명사수:":
                 myongsasu = 0
