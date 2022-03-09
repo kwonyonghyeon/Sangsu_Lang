@@ -30,6 +30,9 @@ class SangsuLang:
             if codes[i][0] == "테이저건" and codes[i][1] == "맞은" and codes[i][2] == "사람:":
                 sangsu_lang.append(["VALUE", self.caculater(codes[i][3:])])
 
+            elif codes[i] == ["영도", "통행금지령:"]:
+                sangsu_lang.append(["VALUE", int(input())])
+
             elif codes[i][0] == "테이저건" and codes[i][1] == "쏜" and codes[i][2] == "사람:":
                 myongsasu = 0
                 for j in codes[i][3:]:
